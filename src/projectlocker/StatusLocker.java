@@ -1,5 +1,5 @@
 package projectlocker;
 
-public enum StatusLocker {
+public enum gitStatusLocker {
     AVALIABLE, UNVALIABLE
 }
